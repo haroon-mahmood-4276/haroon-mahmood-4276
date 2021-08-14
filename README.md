@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi there, I'm Haroon Mahmood 👋
 
-<!--
-**haroon-mahmood-4276/haroon-mahmood-4276** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a Developer, Teacher and Researcher!
+- 🔭 I’m currently working as Laravel and Backend Engineer.
+- 🌱 I worked as a Full stack .NET WinForm Developer.
+- 💻 Co-Founder of Iyetech - Pakistan.    
+- 📢 Love to teach and inspire students.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
 
-Here are some ideas to get you started:
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <a href="https://www.facebook.com/haroon.mahmood.4276/"><img src="https://img.shields.io/badge/Haroon Mahmood-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="border-radius:8px"/></a>
+    <a href="https://wa.me/923034243233?text=Hello!%20Greetings%20Haroon%20Mahmood.%0AI'm%20"><img src="https://img.shields.io/badge/Haroon Mahmood-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="border-radius:8px" /></a>
+    <a href="mailto:haroon.mahmood.4276@gmail.com?subject=Want%20to%20Hire&body=Greetings!%20Haroon%20Mahmood%0D%0AI'm"><img src="https://img.shields.io/badge/Haroon Mahmood-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius:8px" /></a>
+    <a href="https://www.linkedin.com/in/haroonmahmood4276/"><img src="https://img.shields.io/badge/Haroon Mahmood-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius:8px" /></a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/haroon-mahmood-4276">
+    <img style="border-radius:8px" height="180em" src="https://github-readme-stats.vercel.app/api?username=haroon-mahmood-4276&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=haroon-mahmood-4276&layout=compact&langs_count=8&theme=algolia"/>
+    </a>
+    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=haroon-mahmood-4276&theme=highcontrast&hide_border=true)](https://git.io/streak-stats" />
+</p>
