@@ -5,7 +5,7 @@
 - 🌱 I worked as a Full stack .NET WinForm Developer.
 - 💻 Co-Founder of Iyetech - Pakistan.    
 - 📢 Love to teach and inspire students.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🥅 2023 Goals: Contribute more to Open Source projects.
 
 <br />
 <br />
