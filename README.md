@@ -2,7 +2,6 @@
 
 ### I'm a Developer, Teacher and Researcher!
 - 🔭 I’m currently working as Laravel and Backend Engineer.
-- 🌱 I worked as a Full stack .NET WinForm Developer.
 - 💻 Co-Founder of Iyetech - Pakistan.    
 - 📢 Love to teach and inspire students.
 - 🥅 2023 Goals: Contribute more to Open Source projects.
