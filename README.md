@@ -1,8 +1,7 @@
 # Hi there, I'm Haroon Mahmood 👋
 
-### I'm a Developer, Teacher and Researcher!
-- 🔭 I’m currently working as Laravel and Backend Engineer.
-- 💻 Co-Founder of Iyetech - Pakistan.    
+### I'm a Developer, Teacher, and Researcher!
+- 🔭 I’m currently working as a Laravel and Backend Engineer.    
 - 📢 Love to teach and inspire students.
 - 🥅 2023 Goals: Contribute more to Open Source projects.
 
