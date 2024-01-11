@@ -19,5 +19,4 @@
     <a href="https://github.com/haroon-mahmood-4276">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=haroon-mahmood-4276&layout=compact&langs_count=8&theme=algolia"/>
     </a>
-    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=haroon-mahmood-4276&theme=highcontrast&hide_border=true" />
 </p>
