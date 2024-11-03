@@ -4,7 +4,7 @@
 - 🔭 I’m currently working as a Senior Software Engineer.    
 - 📢 Love to teach and inspire students.
 - 🙌 Contributed in @laravel/framework.
-- 🥅 2024 Goals: Be a good programmer.
+- 🥅 Incoming 2025 Goals: Be a good programmer.
 
 <br />
 <br />
