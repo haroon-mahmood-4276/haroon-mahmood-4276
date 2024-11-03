@@ -1,10 +1,10 @@
 # Hi there, I'm Haroon Mahmood 👋
 
 ### I'm a Developer, Teacher, and Researcher!
-- 🔭 I’m currently working as a Laravel and Backend Engineer.    
+- 🔭 I’m currently working as a Senior Software Engineer.    
 - 📢 Love to teach and inspire students.
 - 🙌 Contributed in @laravel/framework.
-- 🥅 2024 Goals: Contribute more to Open Source projects.
+- 🥅 2024 Goals: Be a good programmer.
 
 <br />
 <br />
